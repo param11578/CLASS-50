@@ -1,0 +1,19 @@
+
+            h1 {
+                color: brown;
+            }
+
+            * {
+                border: solid;
+            }
+            .header {
+                background-color: aqua;
+                display:flex;
+                
+                justify-content: flex-end;
+
+            }
+            
+        .param {
+            background-color: brown;
+        }
